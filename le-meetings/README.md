@@ -1,7 +1,5 @@
-# VODF meetings
+# VODF Lead Editors meetings
 
-This repository provides links to coming and past VODF-related calls and meetings.
 
 Meetings:
-* [Developers meetings](dev-meetings/README.md)
-* [Users meetings](user-meetings/README.md)
+* 19-20 March 2025: [F2F meeting in MPIK (Heidelberg)](2025/2025-03-19/README.md)
