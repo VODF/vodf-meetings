@@ -5,10 +5,13 @@
 
 ## Agenda
 
-### Presentation of vodf_scheme (KK)
+### 19/03/2025
+- Presentation of vodf_scheme (KK)
+- Work on the data model
 
-
-###
+### 20/03/2025
+- Finalisation of the data model
+- Work on some data format elements
 
 
 ### Action idems
